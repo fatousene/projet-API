@@ -1,0 +1,16 @@
+.container-fluid{
+  width: 50%;
+  height: 50%;
+  border: 1px black solid ;
+}
+body {
+  background-color: rgba(250, 128, 114, 0.253);
+}
+.list{
+  text-align: center;
+}
+
+.col-sm-6, .col-sm-5{
+  width: 50%;
+}
+
